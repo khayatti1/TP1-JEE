@@ -31,10 +31,10 @@ Les services REST ont été testés avec Postman.
 
 ## Screen 
 
-![4](https://github.com/user-attachments/assets/008c0234-8207-4f27-b06b-251653a75b5c)
-![3](https://github.com/user-attachments/assets/86908a7e-d743-4f55-abf1-400e803d0e73)
-![2](https://github.com/user-attachments/assets/2f143081-a1f2-4e8f-bdaf-30d3be932899)
 ![1](https://github.com/user-attachments/assets/39603f52-fdb0-487a-a23c-26c67a35908d)
+![2](https://github.com/user-attachments/assets/2f143081-a1f2-4e8f-bdaf-30d3be932899)
+![3](https://github.com/user-attachments/assets/86908a7e-d743-4f55-abf1-400e803d0e73)
+![4](https://github.com/user-attachments/assets/008c0234-8207-4f27-b06b-251653a75b5c)
 ![5](https://github.com/user-attachments/assets/f18979db-6fb8-4daa-b1ec-47549cfe6447)
 
 ## Objectifs pédagogiques
@@ -47,5 +47,4 @@ Les services REST ont été testés avec Postman.
 
 ---
 
-**Binôme** : **MOHAMMED EL KHAYATI & MOUAD MOUDID**
-**Classe** : **5IIR-11G2**
+**MOHAMMED EL KHAYATI & MOUAD MOUDID -- 5IIR11**
