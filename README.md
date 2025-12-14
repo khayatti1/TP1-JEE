@@ -25,30 +25,17 @@ Serveur embarqué : Tomcat
 
 Formats supportés : JSON et XML
 
-## Exécution
-
-### Lancer l’application
-
-```bash
-mvn spring-boot:run
-```
-
-### Avec un profil spécifique
-
-```bash
-mvn spring-boot:run -Dspring-boot.run.profiles=prod
-```
-
-### Générer et exécuter le JAR
-
-```bash
-mvn clean package
-java -jar target/rest-api-demo.jar
-```
-
 ## Tests
 
 Les services REST ont été testés avec Postman.
+
+## Screen 
+
+![4](https://github.com/user-attachments/assets/008c0234-8207-4f27-b06b-251653a75b5c)
+![3](https://github.com/user-attachments/assets/86908a7e-d743-4f55-abf1-400e803d0e73)
+![2](https://github.com/user-attachments/assets/2f143081-a1f2-4e8f-bdaf-30d3be932899)
+![1](https://github.com/user-attachments/assets/39603f52-fdb0-487a-a23c-26c67a35908d)
+![5](https://github.com/user-attachments/assets/f18979db-6fb8-4daa-b1ec-47549cfe6447)
 
 ## Objectifs pédagogiques
 
