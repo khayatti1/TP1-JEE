@@ -60,7 +60,5 @@ Les services REST ont été testés avec Postman.
 
 ---
 
-Binôme : MOHAMMED EL KHAYATI & MOUAD MOUDID
-Classe : 5IIR-11G2
-**Auteurs** : **MOHAMMED EL KHAYATI & MOUAD MOUDID**
+**Binôme** : **MOHAMMED EL KHAYATI & MOUAD MOUDID**
 **Classe** : **5IIR-11G2**
